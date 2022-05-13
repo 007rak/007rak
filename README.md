@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rakesh Reddy
 - 👀 I’m interested in Application Architecture
-- 🌱 I’m currently learning Kubernetes
+- 🌱 I’m a Certified Kubernetes Administrator
 - 💞️ I’m looking to collaborate on building simple applications to query data using containers
 - 📫 How to reach me ...
 
